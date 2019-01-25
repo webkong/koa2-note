@@ -1,8 +1,23 @@
-# 《Koa2进阶学习笔记》
+# 《Koa2进阶学习笔记》已完结
 
-<img src="https://user-images.githubusercontent.com/8216630/28377878-d0fdc62a-6ce0-11e7-8099-595ab20d41a3.png"  width="320"/>
+## 序言
 
-## 持续更新中...
+从2017年2月份开始写这本开源电子书，是为了记录自己的学习轨迹和分享技术心得，本开源书的Koa2的基础进程教程已经完结，更多的Koa.js的高阶学习会在后续新开几本书进行探索。感谢这一年来所有读者的关注！O(∩_∩)O。
+
+本书为`Koa.js` 2.x 的入门书籍，如果想了解更多 `Koa.js` 的原理，可阅读 [《Koa.js 设计模式-学习笔记》](https://github.com/chenshenhai/koajs-design-note)
+
+更多前端技术学习可关注公众号 `大海码` `DeepSeaCode` 
+
+
+
+![qrcode_for_gh_959d1c4d729a_258](https://user-images.githubusercontent.com/8216630/43264303-495bf52c-9118-11e8-85cd-4ec6fcc6d066.jpg)
+<br/>
+
+<img src="https://user-images.githubusercontent.com/8216630/35775552-970a79cc-09c5-11e8-932b-9ad5a14c0bb5.png"  width="360"/>
+
+
+## 关于作者
+- [关于作者(我)](https://chenshenhai.github.io)
 
 ## 附加gitbook快速阅读地址
 [https://chenshenhai.github.io/koa2-note/](https://chenshenhai.github.io/koa2-note/)
@@ -50,7 +65,7 @@
     * [12.3 分层操作](https://github.com/ChenShenhai/koa2-note/blob/master/note/project/layer.md)
     * [12.4 数据库设计](https://github.com/ChenShenhai/koa2-note/blob/master/note/project/sql.md)
     * [12.5 路由设计](https://github.com/ChenShenhai/koa2-note/blob/master/note/project/route.md)
-    * [12.6 webpack2环境搭建](https://github.com/ChenShenhai/koa2-note/blob/master/note/project/webpack2.md)
+    * [12.6 webpack4环境搭建](https://github.com/ChenShenhai/koa2-note/blob/master/note/project/webpack4.md)
     * [12.7 使用react.js](https://github.com/ChenShenhai/koa2-note/blob/master/note/project/react.md)
     * [12.8 登录注册功能实现](https://github.com/ChenShenhai/koa2-note/blob/master/note/project/sign.md)
     * [12.9 session登录态判断处理](https://github.com/ChenShenhai/koa2-note/blob/master/note/project/session.md) 
